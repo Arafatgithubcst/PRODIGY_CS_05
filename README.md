@@ -8,5 +8,5 @@ This is a basic network sniffer written in Python.
 
 To run the script:
 
-sudo python3 network_packet_sniffer.py
+sudo python3 net_sniffer.py
 
